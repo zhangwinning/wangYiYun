@@ -52,6 +52,35 @@ function isPrime (num) {
 
 对于上面的算法我们再次改进，从第二种方法上反其道而行之, 先拿到一个素数,然后把该素数的倍数对应的数都删除
 
+注意:
+1. 申请n+1大小的数组长度，其中用数组长度来判断是否为素数。
+2. 把n+1 个数组都设置为true，表示为素数
+3. 从2开始遍历，如果是2的倍数，则置为 false
+
+伪代码为:
+
+```js
+    let n = this.n;
+    let primes = new Array(n + 1);
+    for (let i = 0; i < primes.length; i++) {
+        primes[i] = true;
+    }
+    for (let i = 2; i <= n; i++) {
+        if (primes[i] == true) {
+            let p = i;
+            for (let j = 2; j * p <= n; j++) {
+                primes[j * p] = false;
+            }
+        }
+    }
+    console.log('');
+    for (let i = 2; i <= n; i++) {
+        if (primes[i]) {
+            process.stdout.write(i + ' ');
+        }
+    }
+```
+
 
 
 
