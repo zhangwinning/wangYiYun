@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7802799d-bfd2-45cf-ba89-462922c33ec2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-基础数据类型的算法分析/04-数字与字符串相互转换，简单题目中的隐藏陷阱/BinaryOperation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-数组与字符串/01-数组与字符串：排序与求余/ArrayAndString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-数组与字符串/01-数组与字符串：排序与求余/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,11 +18,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BinaryOperation.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03-基础数据类型的算法分析/04-数字与字符串相互转换，简单题目中的隐藏陷阱/BinaryOperation.js">
+      <file leaf-file-name="ArrayAndString.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-数组与字符串/01-数组与字符串：排序与求余/ArrayAndString.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="-390">
+              <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-基础数据类型的算法分析/03-基础数据类型的相关算法延伸：素数判断及矩形交集/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="subset.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-基础数据类型的算法分析/02-有关基础类型的集合运算和数值运算/subset.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-170">
+              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -29,8 +51,18 @@
       <file leaf-file-name="prime.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03-基础数据类型的算法分析/03-基础数据类型的相关算法延伸：素数判断及矩形交集/prime.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+            <state relative-caret-position="320">
+              <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-数组与字符串/01-数组与字符串：排序与求余/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,6 +95,8 @@
         <option value="$PROJECT_DIR$/git.sh" />
         <option value="$PROJECT_DIR$/03-基础数据类型的算法分析/03-基础数据类型的相关算法延伸：素数判断及矩形交集/README.md" />
         <option value="$PROJECT_DIR$/03-基础数据类型的算法分析/04-数字与字符串相互转换，简单题目中的隐藏陷阱/BinaryOperation.js" />
+        <option value="$PROJECT_DIR$/04-数组与字符串/01-数组与字符串：排序与求余/test.js" />
+        <option value="$PROJECT_DIR$/04-数组与字符串/01-数组与字符串：排序与求余/ArrayAndString.js" />
       </list>
     </option>
   </component>
@@ -133,13 +167,30 @@
               <item name="wangYiYun" type="b2602c69:ProjectViewProjectNode" />
               <item name="wangYiYun" type="462c0819:PsiDirectoryNode" />
               <item name="03-基础数据类型的算法分析" type="462c0819:PsiDirectoryNode" />
-              <item name="03-基础数据类型的相关算法延伸：素数判断及矩形交集" type="462c0819:PsiDirectoryNode" />
+              <item name="01-基础数据类型中二进制位操作算法" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wangYiYun" type="b2602c69:ProjectViewProjectNode" />
               <item name="wangYiYun" type="462c0819:PsiDirectoryNode" />
               <item name="03-基础数据类型的算法分析" type="462c0819:PsiDirectoryNode" />
-              <item name="04-数字与字符串相互转换，简单题目中的隐藏陷阱" type="462c0819:PsiDirectoryNode" />
+              <item name="02-有关基础类型的集合运算和数值运算" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangYiYun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangYiYun" type="462c0819:PsiDirectoryNode" />
+              <item name="03-基础数据类型的算法分析" type="462c0819:PsiDirectoryNode" />
+              <item name="03-基础数据类型的相关算法延伸：素数判断及矩形交集" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangYiYun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangYiYun" type="462c0819:PsiDirectoryNode" />
+              <item name="04-数组与字符串" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangYiYun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangYiYun" type="462c0819:PsiDirectoryNode" />
+              <item name="04-数组与字符串" type="462c0819:PsiDirectoryNode" />
+              <item name="01-数组与字符串：排序与求余" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -164,6 +215,7 @@
       <recent name="$PROJECT_DIR$/03-基础数据类型的算法分析/03-基础数据类型的相关算法延伸：素数判断及矩形交集" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/04-数组与字符串/01-数组与字符串：排序与求余" />
       <recent name="$PROJECT_DIR$/03-基础数据类型的算法分析/01-基础数据类型中二进制位操作算法" />
     </key>
   </component>
@@ -179,26 +231,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.BinaryOperation.js">
+  <component name="RunManager" selected="Node.js.prime.js">
+    <configuration name="ArrayAndString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ArrayAndString.js" working-dir="$PROJECT_DIR$/04-数组与字符串/01-数组与字符串：排序与求余" />
     <configuration name="BinaryOperation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="BinaryOperation.js" working-dir="$PROJECT_DIR$/03-基础数据类型的算法分析/04-数字与字符串相互转换，简单题目中的隐藏陷阱" />
-    <configuration name="gcd.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="gcd.js" working-dir="$PROJECT_DIR$/03-基础数据类型的算法分析/02-有关基础类型的集合运算和数值运算" />
     <configuration name="prime.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="prime.js" working-dir="$PROJECT_DIR$/03-基础数据类型的算法分析/03-基础数据类型的相关算法延伸：素数判断及矩形交集" />
-    <configuration name="subset.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="subset.js" working-dir="$PROJECT_DIR$/03-基础数据类型的算法分析/02-有关基础类型的集合运算和数值运算" />
+    <configuration name="test.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/04-数组与字符串/01-数组与字符串：排序与求余" />
     <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/03-基础数据类型的算法分析/03-基础数据类型的相关算法延伸：素数判断及矩形交集" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.subset.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.gcd.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.prime.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.BinaryOperation.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.prime.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.BinaryOperation.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.ArrayAndString.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.BinaryOperation.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.prime.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.gcd.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.subset.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.prime.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.ArrayAndString.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.BinaryOperation.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -215,23 +267,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507194185078</updated>
-      <workItem from="1507194187417" duration="19999000" />
+      <workItem from="1507194187417" duration="25057000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19999000" />
+    <option name="totallyTimeSpent" value="25057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37642047" sideWeight="0.503231" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4090909" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35085228" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3934659" sideWeight="0.49676898" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3934659" sideWeight="0.49676898" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17609046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17609046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Pomodoro" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -254,11 +306,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37642047" sideWeight="0.503231" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19602273" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35085228" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4005682" sideWeight="0.49676898" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3934659" sideWeight="0.49676898" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15508886" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17609046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Pomodoro" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -314,22 +366,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-基础数据类型的算法分析/03-基础数据类型的相关算法延伸：素数判断及矩形交集/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-基础数据类型的算法分析/02-有关基础类型的集合运算和数值运算/subset.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/git.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -338,18 +374,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-基础数据类型的算法分析/03-基础数据类型的相关算法延伸：素数判断及矩形交集/prime.js">
+    <entry file="file://$PROJECT_DIR$/03-基础数据类型的算法分析/04-数字与字符串相互转换，简单题目中的隐藏陷阱/BinaryOperation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        <state relative-caret-position="200">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-基础数据类型的算法分析/04-数字与字符串相互转换，简单题目中的隐藏陷阱/BinaryOperation.js">
+    <entry file="file://$PROJECT_DIR$/04-数组与字符串/01-数组与字符串：排序与求余/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="280">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-基础数据类型的算法分析/03-基础数据类型的相关算法延伸：素数判断及矩形交集/prime.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-基础数据类型的算法分析/03-基础数据类型的相关算法延伸：素数判断及矩形交集/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-基础数据类型的算法分析/02-有关基础类型的集合运算和数值运算/subset.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-数组与字符串/01-数组与字符串：排序与求余/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-数组与字符串/01-数组与字符串：排序与求余/ArrayAndString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
           <folding />
         </state>
       </provider>
