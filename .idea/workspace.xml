@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7802799d-bfd2-45cf-ba89-462922c33ec2" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-基础数据类型的算法分析/04-数字与字符串相互转换，简单题目中的隐藏陷阱/数字与字符串相互转换，简单题目中的隐藏陷阱-2.pdf" afterPath="$PROJECT_DIR$/03-基础数据类型的算法分析/04-数字与字符串相互转换，简单题目中的隐藏陷阱/数字与字符串相互转换，简单题目中的隐藏陷阱.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-基础数据类型的算法分析/04-数字与字符串相互转换，简单题目中的隐藏陷阱/BinaryOperation.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,7 +15,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="BinaryOperation.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03-基础数据类型的算法分析/04-数字与字符串相互转换，简单题目中的隐藏陷阱/BinaryOperation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prime.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-基础数据类型的算法分析/03-基础数据类型的相关算法延伸：素数判断及矩形交集/prime.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,6 +62,7 @@
         <option value="$PROJECT_DIR$/03-基础数据类型的算法分析/03-基础数据类型的相关算法延伸：素数判断及矩形交集/prime.js" />
         <option value="$PROJECT_DIR$/git.sh" />
         <option value="$PROJECT_DIR$/03-基础数据类型的算法分析/03-基础数据类型的相关算法延伸：素数判断及矩形交集/README.md" />
+        <option value="$PROJECT_DIR$/03-基础数据类型的算法分析/04-数字与字符串相互转换，简单题目中的隐藏陷阱/BinaryOperation.js" />
       </list>
     </option>
   </component>
@@ -112,6 +133,12 @@
               <item name="wangYiYun" type="b2602c69:ProjectViewProjectNode" />
               <item name="wangYiYun" type="462c0819:PsiDirectoryNode" />
               <item name="03-基础数据类型的算法分析" type="462c0819:PsiDirectoryNode" />
+              <item name="03-基础数据类型的相关算法延伸：素数判断及矩形交集" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangYiYun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangYiYun" type="462c0819:PsiDirectoryNode" />
+              <item name="03-基础数据类型的算法分析" type="462c0819:PsiDirectoryNode" />
               <item name="04-数字与字符串相互转换，简单题目中的隐藏陷阱" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -152,23 +179,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.prime.js">
+  <component name="RunManager" selected="Node.js.BinaryOperation.js">
+    <configuration name="BinaryOperation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="BinaryOperation.js" working-dir="$PROJECT_DIR$/03-基础数据类型的算法分析/04-数字与字符串相互转换，简单题目中的隐藏陷阱" />
     <configuration name="gcd.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="gcd.js" working-dir="$PROJECT_DIR$/03-基础数据类型的算法分析/02-有关基础类型的集合运算和数值运算" />
     <configuration name="prime.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="prime.js" working-dir="$PROJECT_DIR$/03-基础数据类型的算法分析/03-基础数据类型的相关算法延伸：素数判断及矩形交集" />
     <configuration name="subset.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="subset.js" working-dir="$PROJECT_DIR$/03-基础数据类型的算法分析/02-有关基础类型的集合运算和数值运算" />
     <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/03-基础数据类型的算法分析/03-基础数据类型的相关算法延伸：素数判断及矩形交集" />
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.subset.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.gcd.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
       <item index="3" class="java.lang.String" itemvalue="Node.js.prime.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.BinaryOperation.js" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.prime.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.gcd.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.subset.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.BinaryOperation.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.prime.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.gcd.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.subset.js" />
       </list>
     </recent_temporary>
   </component>
@@ -185,23 +215,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507194185078</updated>
-      <workItem from="1507194187417" duration="17884000" />
+      <workItem from="1507194187417" duration="19999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17884000" />
+    <option name="totallyTimeSpent" value="19999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37642047" sideWeight="0.503231" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19602273" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4090909" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3934659" sideWeight="0.49676898" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3934659" sideWeight="0.49676898" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39499193" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17609046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Pomodoro" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -300,18 +330,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-基础数据类型的算法分析/03-基础数据类型的相关算法延伸：素数判断及矩形交集/prime.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="940">
-          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/git.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-基础数据类型的算法分析/03-基础数据类型的相关算法延伸：素数判断及矩形交集/prime.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-基础数据类型的算法分析/04-数字与字符串相互转换，简单题目中的隐藏陷阱/BinaryOperation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding />
         </state>
       </provider>
